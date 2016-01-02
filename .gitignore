@@ -3,6 +3,7 @@
 .project
 .classpath
 .checkstyle
+.metadata
 *.class
 target
 bin
